@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://instogram.xyz/sitemap.xml
