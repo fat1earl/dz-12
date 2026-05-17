@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>Instogram Growth icon</title>
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#42f5d7"/><stop offset="0.55" stop-color="#7b61ff"/><stop offset="1" stop-color="#ccff5f"/></linearGradient></defs>
+  <rect width="512" height="512" rx="112" fill="#050713"/>
+  <rect x="42" y="42" width="428" height="428" rx="94" fill="url(#g)" opacity="0.22"/>
+  <path fill="#f8fbff" d="M132 352V160h54v192h-54Zm96 0V160h52l92 103V160h54v192h-50l-94-106v106h-54Z"/>
+  <circle cx="394" cy="118" r="34" fill="#ccff5f"/>
+</svg>
